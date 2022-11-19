@@ -1,46 +1,16 @@
-# Getting Started with Create React App
+# POMOTODO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Pomodoro + TODO-DOING-DONE
 
-## Available Scripts
+Certamente você já deve ter ouvido falar sobre a técnica de foco e concentração chamada Pomodoro. Eu faço uso dela, quando desejo concentrar todo meu foco e esforço para realizar uma determinada atividade em num X intervalo de tempo. 
 
-In the project directory, you can run:
+Na verdade estou fazendo uso dela agora, neste momento que escrevo este texto. Separei dois blocos de 25 min e dois intervalos de 5 min. Durante os dois blocos maiores, estou usando para codificação e por 5 minutos descanso. 
 
-### `npm start`
+Isso é uma atividade rotineira, afinal um novo hábito aprendemos diariamente. No trabalho eu lido diariamente com o Kanban. Conhecido por muitos pelo modo de gestão mais simples do: TO DO -> DOING -> DONE. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Desta maneira, proponho a criação utilizando o React App de um sistema de registro de atividades associadas a fatias de tempo. Diariamente o usuário deverá iniciar a atividade, focando apenas nela e ao final do período deve ser realizado o checkkin de DONE. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Acredito que utilizando a tecnologia do React App pode me ajudar a controlar e economizar na quantidade de post it na parede do meu quarto. rsrsrs 
 
-### `npm test`
+#meioambienteagradece <3
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
